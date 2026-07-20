@@ -1,0 +1,7 @@
+{
+    "author": "Wizbisy",
+    "description": "AI-first security auditor for GenLayer Intelligent Contracts.",
+    "name": "zeus-auditor",
+    "version": "1.0.0",
+    "skills": "./skills"
+}

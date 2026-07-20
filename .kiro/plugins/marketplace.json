@@ -1,0 +1,20 @@
+{
+  "name": "wizbisy",
+  "interface": {
+    "displayName": "Zeus Auditor"
+  },
+  "plugins": [
+    {
+      "name": "zeus-auditor",
+      "source": {
+        "source": "local",
+        "path": "./skills/zeus"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Security"
+    }
+  ]
+}
